@@ -1,0 +1,385 @@
+.card-title2
+{
+  padding:20px;
+}
+.card-text2
+{
+  padding:10px;
+}
+.card-text4{
+  padding:25x;
+}
+.card-text4
+
+{
+padding:10px;
+}
+
+.bgimage {
+    height:100vh;
+    background: url('https://images.pexels.com/photos/19449126/pexels-photo-19449126/free-photo-of-a-road-with-trees-and-a-bench-in-the-fog.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load');
+    background-size:cover;
+    position:relative;
+  
+ 
+    
+}
+/* Common styles for navbar */
+
+.navbarnavbar-expand-lg
+{
+  width:100%;
+}
+.navbarScroll {
+  background-color: #333;
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-right:10%;
+  text-shadow:0px 0px 20px #007bff;
+}
+
+.navbar-toggler-icon {
+  color: white;
+}
+
+.navColor {
+  color: white !important;
+  transition: color 0.3s ease;
+}
+
+.navColor:hover {
+  color: #007bff !important;
+  
+}
+
+.container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar-nav {
+  margin-right: 0;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+  padding: 10px;
+  border-radius: 5px;
+ 
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: rgba(23, 162, 184, 0.1);
+}
+
+/* Additional styling for right-aligned items */
+.navbar-nav.ms-auto {
+  margin-left: auto;
+}
+
+.navbar-nav.ms-auto .nav-item {
+  margin-right: 0;
+}
+
+/* Additional styling for navbar-right items */
+.navbar-nav.navbar-right {
+  margin-left: auto;
+}
+.navbar-nav {
+  margin-left: 80%; 
+}
+
+
+
+/* Styling for hover effect on nav links */
+.navbar-nav .nav-link:hover {
+  background-color: rgba(23, 162, 184, 0.1);
+  border-radius: 5px;
+}
+
+
+.hero_title {
+    font-size: 4.5rem;
+    font-family:  sans-serif;
+    text-shadow:0px 0px 20px #ddd;
+}
+.hero_desc {
+    font-size: 2rem;
+    font-family:  sans-serif;
+    text-shadow:0px 0px 20px #ddd;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+/* Styling for the second background image section */
+#About {
+    position: relative;
+    width: 100%;
+    height: 100%; 
+    overflow: hidden;
+  }
+#About h1 {
+    margin: 5%;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    z-index: 1;
+    text-shadow: 0px 0px 80px #960c0c;
+  }
+  
+  #About h2 {
+    margin: 10%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: 1;
+    text-shadow: 0px 0px 80px #862d2d;
+  }
+  
+  .imageAboutPage {
+    margin: 10%;
+  }
+#Honors {
+  background-color: black;
+  color: white;
+  display: flex;
+  text-align: center;
+  height: 100%;
+  padding: 10%;
+}
+#Honors h1 {
+  text-align: center;
+}
+#Honors p {
+  color: black;
+  font-size: large;
+}
+#Honors img {
+  width: 100%;
+}
+.card-body
+{
+    background-color: #ffffff;
+}
+
+#Qualification {
+    
+
+  width:100%;
+  height: 100%;
+}
+
+  #Qualification h1 {
+    margin:10%;
+    color: white;
+    text-align: center;
+ 
+  
+  }
+  
+
+.table {
+
+  color: white;
+  margin: 20px 0;
+}
+
+/* Add any additional styling for your table if needed */
+
+.card servicesText {
+  text-align: center;
+}
+
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.imageAboutPage {
+  width: 100%;
+}
+.servicesText.card {
+  height: 280px;
+  cursor: pointer;
+}
+.servicesIcon {
+  font-size: 36px;
+  text-align: center;
+  width: 100%;
+}
+.card-title {
+  text-align: center;
+}
+.card:hover .servicesIcon {
+  color: #008000;
+}
+.servicesText:hover {
+  border: 1px solid #008000;
+  text-align: center;
+}
+.navbarScroll.navbarDark {
+  background-color: black;
+}
+
+.container {
+  text-align: center;
+}
+
+#journal h1 {
+  text-align: center;
+}
+#Conference {
+  background-color: black;
+  height: 100%;
+
+  color: white;
+  padding: 10%;
+}
+#Conference  h1 {
+  text-align: center;
+}
+
+.imageAboutPage {
+  
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.icons {
+  margin-right: 5px;
+}
+
+#icon_text {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+footer p
+{
+    color:white;
+}
+footer{
+    background-color: #343a40;
+    height:10%;
+    text-align: center;
+}
+.icon {
+    color: #ffffff; 
+}
+
+.icon i {
+    margin: 10px 10px; 
+    font-size: 15px; 
+}
+
+.icon a {
+    color: #ffffff; 
+    text-decoration: none; 
+}
+/* Add this to your stylesheet or in a style tag within the HTML file */
+#Research h1{
+    color:white;
+}
+#Research {
+    background-color: black; 
+    padding: 60px 0;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    min-height: 100vh; 
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    width: 100%; 
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+}
+
+.card-body1,
+.card-body3,
+.card-body4 {
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    color: #555;
+}
+
+
+.row > div[class^="col-"] {
+    margin-bottom: 20px;
+}
+#Journal {
+    text-align: center;
+   /* Add some padding for better spacing */
+    background-color: black;
+    width:100%;
+    height:100%; 
+}
+
+#Journal h1 {
+    color: white;
+    margin:10%;
+    text-shadow:0px 0px 20px rgb(211, 209, 209); 
+}
+
+.container2 {
+    max-width: 800px; 
+    margin: 0 auto; 
+    font-family: 'Arial', sans-serif; 
+    font-size: 18px; 
+    line-height: 1.6; 
+}
+
+#Journal p {
+    
+    color: white;
+    font-weight: bold;
+    text-shadow:0px 0px 20px #aab2b9;
+}
+#contact h1{
+    color:white;
+
+}
+.footer-dark footer {
+  background-color: rgba(0, 0, 0, 0.8); 
+}
+
+.footer-dark .icon a {
+  color: #fff; 
+}
+
+.footer-dark p.copyright {
+  color: #fff; 
+}

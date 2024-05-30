@@ -1,6 +1,6 @@
-# Portfolio Website
+# Career Portfolio Website
 
-This is a portfolio website template created using HTML, CSS, and Bootstrap. The template is designed to showcase personal information, qualifications, honors, research areas, publications, and contact details.
+This is a career portfolio website template created using HTML, CSS, and Bootstrap. The template is designed to showcase personal information, qualifications, honors, research areas, publications, and contact details.
 
 ## Table of Contents
 
@@ -16,12 +16,12 @@ This is a portfolio website template created using HTML, CSS, and Bootstrap. The
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Zohaib251/Project_Portfolio.git
+   git clone https://github.com/Zohaib251/Career-Portfolio-Website.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Project_Portfolio
+   cd Career-Portfolio-Website
    ```
 
 3. Open `index.html` in your web browser to view the website.
